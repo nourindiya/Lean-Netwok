@@ -26,14 +26,26 @@ h1{
 .felxible-container{
     display: inline-flex;
 }
-#image{
-    width:70%;
-    padding-left: 1px;
-    padding-bottom: 30px;
+.about-us{
+    display: flex;
+    width: 60%;
+    padding: 10px;
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    margin: 20px;
+    border: 0px;
 }
-#section{
-    display: inline-flex;
+.about-us img{
+    width: 80%;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 2px;
 }
-.p2{
-    width: 50%;
+.background-img{
+    background: url(images/bgg.png);
+    padding: 120px;
+    position: fixed;
+}
+.food-menu{
+    text-align: center;
 }
