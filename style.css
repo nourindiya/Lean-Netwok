@@ -49,3 +49,15 @@ h1{
 .food-menu{
     text-align: center;
 }
+.cotainer{
+    width: 50%;
+    overflow: hidden;
+    background: white;
+    margin: 20px auto;
+    padding: 20px;
+
+}
+.cotainer div {
+    padding: 0px;
+    margin: 0px;   
+}
